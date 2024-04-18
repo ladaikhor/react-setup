@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git config --list
+
+
+
+
+
+blue = #6f80d0
+yellow = #fdd866
+white = #f5f5f5
+black = #1b1d27
